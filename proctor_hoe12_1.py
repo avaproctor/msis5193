@@ -27,3 +27,6 @@ st.markdown("""
 - Location: Stillwater, Oklahoma
 """)
 st.markdown("[Visit OSU Website](https://okstate.edu) for more info.")
+
+#  Streamlit Link
+#  https://msis5193-uea8doysd49vourcddkgw2.streamlit.app/
